@@ -1,0 +1,15 @@
+/* 
+Theme name: wildvecht 
+author: Cas 
+
+*/
+#menu-hooftmenu a {
+    margin: 0 30px;
+}
+#sidebar figure {
+    margin: 0;
+    /* border: 1px solid black; */
+}
+#sidebar li {
+    list-style: none;
+}
